@@ -24,3 +24,14 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/d"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="d" /></a></p><br><br>
+<h3 align="left">i'm Gammer too,you can find me on</h3>
+<img src="https://img.icons8.com/fluency/48/000000/steam.png"/><img src="https://img.icons8.com/color/48/000000/league-of-legends.png"/>
+
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leducmanhimk)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
