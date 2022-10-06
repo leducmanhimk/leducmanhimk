@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **no one**
 
-- 🤝 I’m looking for help with **Astronomy**
+- 🤝 I’m looking for help with **Astronomy** ☄
 
 - 💬 Ask me about **Astronomy**
 
 - 📫 How to reach me **lemanh8456@gmail.com**
 
-- ⚡ Fun fact **a ice heart**
+- ⚡ Fun fact **a ice heart** ❄🧊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
